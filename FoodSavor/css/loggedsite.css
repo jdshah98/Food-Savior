@@ -1,0 +1,54 @@
+﻿body {
+	margin: 0;
+}
+
+.navbar {
+	margin-bottom: 0px !important;
+	border-bottom: 3px solid #ff6a00;
+	letter-spacing: 1px;
+	border-radius: 0px !important;
+}
+
+.btn-transparent {
+	background-color: transparent;
+	border: 1px solid #e1e4e8;
+	border-radius: 8px;
+	padding: 10px !important;
+	margin-top: 3px;
+}
+
+#logout:hover {
+	background-color: red;
+	color: white;
+	padding: 10px !important;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+	font-display: block;
+	letter-spacing: 1px;
+	z-index: 999;
+}
+
+.extra-padding {
+	padding: 10px;
+}
+
+.text-size {
+	font-size: 16px;
+}
+
+.logo {
+	font-size: 24px !important;
+}
+
+a.nav, li.nav {
+	padding-left: 30px !important;
+	padding-right: 30px !important;
+}
+
+footer {
+	background-color: #222;
+}
+
+	footer.container-fluid {
+		padding: 50px;
+	}

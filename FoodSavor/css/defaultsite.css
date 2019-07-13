@@ -1,0 +1,78 @@
+﻿body {
+	margin: 0;
+}
+
+.navbar {
+	margin-bottom: 0px !important;
+	border-bottom: 3px solid #ff6a00;
+	letter-spacing: 1px;
+	border-radius: 0px !important;
+}
+
+.navbar-brand {
+	height: auto !important;
+}
+
+.btn-transparent {
+	background-color: transparent;
+	border: 1px solid #e1e4e8;
+	border-radius: 8px;
+	padding: 10px !important;
+	margin-top: 3px;
+}
+
+#login:hover {
+	background-color: green;
+	color: white;
+	padding: 10px !important;
+	border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+	font-display: block;
+	letter-spacing: 1px;
+	z-index: 999;
+}
+
+#signup:hover {
+	background-color: blue;
+	color: white;
+	padding: 10px !important;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+	font-display: block;
+	letter-spacing: 1px;
+	z-index: 999;
+}
+
+.text-size {
+	font-size: 16px;
+}
+
+.logo {
+	font-size: 24px !important;
+}
+
+a.nav, .btn-group {
+	padding-left: 30px !important;
+	padding-right: 30px !important;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+a.nav {
+	padding-top: 25px !important;
+	padding-bottom: 25px !important;
+}
+
+	a.nav:hover {
+		background-color: black !important;
+		margin-top: 0px !important;
+		margin-bottom: 0px !important;
+	}
+
+footer {
+	background-color: #222;
+}
+
+	footer.container-fluid {
+		padding: 50px;
+	}
